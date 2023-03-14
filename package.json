@@ -3,12 +3,10 @@
   "description": "A smoothly animated ToDo app built with React Native",
   "version": "1.0.0",
   "author": {
-    "name": "Sohan",
-    "url": "https://www.craftz.dog/"
+    "name": "Sohan"
   },
   "keywords": [
     "react-native",
-    "tutorial",
     "todo"
   ],
   "main": "node_modules/expo/AppEntry.js",
