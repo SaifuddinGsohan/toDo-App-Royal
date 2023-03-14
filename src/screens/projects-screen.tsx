@@ -54,7 +54,7 @@ export default function ProjectScreen(props: { state: any; navigation: any }) {
     >
       <Masthead
         title="YOUR PROJECTS"
-        image={require('../assets/masthead.png')}
+        image={require('../assets/taskProject.png')}
       >
         <NavBar />
       </Masthead>
